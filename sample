@@ -1,12 +1,12 @@
 '''This is the first project'''
-user_input1=int(input("enter your input value"))
-user_input=int(input("enter your second input value"))
+user_input1=int(input("enter your input value😁😁"))
+user_input=int(input("enter your second input value😁😁"))
 if user_input1>user_input:
-    print("user input 1 is high value", user_input1)
+    print("input 1 value is gratter than user input value")
     for i in range (user_input1):
         print("Vimal is good boy")
 else:
-    print("user input is high value", user_input)
-    for i in range in(user_input):
+    print("input 1 value is less than user input value")
+    for i in range (user_input):
         print("Vimal is good boy")
 
