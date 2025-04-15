@@ -1,1 +1,3 @@
 '''This is the first project'''
+user_input1=int(input("enter your input value"))
+user_input=int(input("enter your second input value"))
